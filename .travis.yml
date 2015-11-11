@@ -1,0 +1,30 @@
+language: node_js
+node_js:
+  - '0.12'
+
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+  - DEPLOY_BRANCH=master
+  - BLUEHOST_PATH=rankingdigitalrights.org:public_html/index2015
+  - secure: "Bi0zrJVuP6v/0ACZM1dTzJZvFuFG6gCnsvy8ILfbaTT8m8nMXvUIN0wnQsg/qavBFkW9eiW4eMZfZKqCQRlZOHiR2Fw9BriRnh2XvqxYLi2ED/8raLYGOSSVJl8R67fjcNMAUMntJ7k4zlcTWzFw9tDvjhPuPhnNtIHgvgbid1MNYuBZozFcW9eBzRSAyMle5mfwTrbc97L0gktSI1PUIKVF773c/V6KxGIWETQX3FmmBna+/G1eCLi0c/hE0yFc5jU2X3BUh34npv0+Ipf0jiSu6zaLhZ3LnEn4eS8lfj41jHQ7MmI4SW22gGbwiWmciINOGmfBSykD3+4hr50ePEx2/NFLjxmMnzyo6Zcl7Rs4ZsiAz+kTArmu5DnPaKslnlnJhMOhT9rYTyV0/atHo+pinuym6SVHpBtNaVvWBZYzykwPGQkDOJ6fYVxun0fN050DwDxgDLNqD/DxqHH7VDGJ+xzpjo71fyJ4Mfl9OQGr/YXeCqh2UwbpVCBRMYLlm4LVgTHhPddzZInO1MDpWob9SqYGNGp5KBvKJaq3z7GPyOTKdc46Rrae6Qrlk+aUqJDdg8c0pt4j+nKEoTZcJJjxlQ9lZui8uJMUnGt1ZkXtwp99uJrjMAU8EiuH1ErLi06C+GQ6l4GtGYPDJCwvus1IetTvruVMnnajjVZxVkM="
+cache:
+  directories:
+    - node_modules
+    - bundle/cache
+
+before_install:
+  - openssl aes-256-cbc -K $encrypted_91f6bcb8ad4b_key -iv $encrypted_91f6bcb8ad4b_iv -in rdr.enc -out rdr -d
+  - chmod 400 rdr
+  - chmod +x ./.build_scripts/deploy.sh
+  - chmod +x ./.build_scripts/build.sh
+  - chmod +x ./.build_scripts/lint.sh
+
+before_script:
+  - ./.build_scripts/lint.sh
+
+script:
+  - ./.build_scripts/build.sh
+
+after_success:
+  - ./.build_scripts/deploy.sh
