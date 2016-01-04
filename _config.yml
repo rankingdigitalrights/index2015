@@ -24,3 +24,7 @@ kramdown:
 # SEO defaults:
 name: Ranking digital rights
 description: The 2015 Ranking Digital Rights survey site
+
+prose:
+  rooturl: app
+  siteurl: https://rankingdigitalrights.org/index2015
