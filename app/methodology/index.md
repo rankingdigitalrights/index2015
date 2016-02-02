@@ -5,7 +5,7 @@ visualization: none
 header: Methodology
 ---
 
-To see the full text of the indicators, including definitions of key terms and research guidance, click [here](TODO).
+To see the full text of the indicators, including definitions of key terms and research guidance, click [here](https://rankingdigitalrights.org/project-documents/2015-indicators/).
 
  - [What companies and services are included in the Index?]({{ site.baseurl }}/methodology/#what-companies-and-services-are-included-in-the-index)
  - [How were these companies selected?]({{ site.baseurl }}/methodology/#how-were-these-companies-selected)
@@ -126,7 +126,7 @@ The research process included the following steps:
  6. **Revision:** RDR and Sustainalytics processed company feedback and made decisions about results.
  7. **Final results:** RDR finalized the data and generated scores based on the findings.
 
-Before the research began, we defined key terms and drafted guidance for each indicator to help researchers understand what each indicator meant and how to interpret it. We published the definitions and guidance [here](TODO).
+Before the research began, we defined key terms and drafted guidance for each indicator to help researchers understand what each indicator meant and how to interpret it. We published the definitions and guidance [here](https://rankingdigitalrights.org/project-documents/2015-indicators/).
 
 ### How did researchers engage with the companies?
 
