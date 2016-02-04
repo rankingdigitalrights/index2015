@@ -1,17 +1,15 @@
 ---
 entity: commitment
 entity_type: category
-
 visualization: category
 layout: category
-
 display: Commitment
-
-introduction: The Commitment category of the Index evaluates whether companies demonstrate clear commitment in words and deeds to respect users’ right to freedom of expression and privacy. The indicators draw heavily from the <a href="http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf">U.N. Guiding Principles on Business and Human Rights</a>, which instruct companies not only to make commitments, but also to carry out due diligence – also known as “impact assessment” – in order to identify, mitigate, and account for any negative effects their business may have on human rights. Companies are also expected to publicly demonstrate that they have put processes in place to implement their human rights commitments and policies effectively. Mechanisms for internal accountability, as well as grievance and remedy processes for users whose rights have been violated, are also important components of the Guiding Principles.
-
+introduction: "The Commitment category of the Index evaluates whether companies demonstrate clear commitment in words and deeds to respect users’ right to freedom of expression and privacy. The indicators draw heavily from the <a href=\"http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf\">U.N. Guiding Principles on Business and Human Rights</a>, which instruct companies not only to make commitments, but also to carry out due diligence – also known as “impact assessment” – in order to identify, mitigate, and account for any negative effects their business may have on human rights. Companies are also expected to publicly demonstrate that they have put processes in place to implement their human rights commitments and policies effectively. Mechanisms for internal accountability, as well as grievance and remedy processes for users whose rights have been violated, are also important components of the Guiding Principles."
+published: true
 ---
 
-Microsoft, Yahoo, Google, Vodafone, and Orange take the lead (in that order) with Commitment scores between 70-82 percent of total possible points. Facebook, and AT&T fall within 50-65 percent. Kakao and Twitter trail in the 30-40 percent range; MTN, Bharti Airtel and América Móvil lag within the 10-25 percent band; and three companies (Tencent, Etisalat, and Mail.ru) are in the single digits. Axiata earned zero points for this section.
+
+Microsoft, Yahoo, Google, Vodafone, and Orange take the lead (in that order) with Commitment scores between 70-82 percent of total possible points. Facebook, and AT&T fall within 50-65 percent. Kakao and Twitter trail in the 30-40 percent range; MTN, Bharti Airtel and América Móvil lag within the 10 - 25 percent band; and three companies (Tencent, Etisalat, and Mail.ru) are in the single digits. Axiata earned zero points for this section.
 
 It is notable that the seven companies earning more than 50 percent of total possible points in this section are all members of the [Global Network Initiative](https://globalnetworkinitiative.org/) (GNI), a multi-stakeholder initiative focused on upholding principles of freedom of expression and privacy in relation to government requests or the [Telecommunications Industry Dialogue](http://www.telecomindustrydialogue.org/), an industry organization also focused on freedom of expression and privacy. There is a close link between the commitments sought under the Commitment category and the principles that companies commit to as members of the GNI and Industry Dialogue:
 
