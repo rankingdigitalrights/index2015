@@ -47,3 +47,4 @@ For telecommunications companies, many of the complaint avenues were embedded in
 - In the case of Kakao, South Korean laws require implementation of grievance and remedy mechanisms that cover privacy and copyright. Our assessment determined that Kakao’s performance largely aligned with regulatory expectations. Notably, Kakao has added an appeals mechanism for users who are accused of copyright infringement, which helps address concerns that processes for enforcing copyright can be used in a way that limits free expression.
 
 While both of these companies can find considerable room to stretch toward the ideals that underpin the Index’s methodology, their performance here provides a valuable example of how the regulatory context can support digital rights. There is further potential for stakeholders to work with regulators to close the gaps.
+
