@@ -8,7 +8,8 @@ introduction: "The Commitment category of the Index evaluates whether companies 
 published: true
 ---
 
-Microsoft, Yahoo, Google, Vodafone, and Orange take the lead (in that order) with Commitment scores between 70-82 percent of total possible points. Facebook, and AT&T fall within 50-65 percent. Kakao and Twitter trail in the 30-40 percent range; MTN, Bharti Airtel and América Móvil lag within the 10 - 25 percent band; and three companies (Tencent, Etisalat, and Mail.ru) are in the single digits. Axiata earned zero points for this section.
+
+Microsoft, Yahoo, Google, Vodafone, and Orange take the lead (in that order) with Commitment scores between 70-82 percent of total possible points. Facebook, and AT&T fall within 50-65 percent. Kakao and Twitter trail in the 30-40 percent range; MTN, Bharti Airtel and América Móvil lag within the 10-25 percent band; and three companies (Tencent, Etisalat, and Mail.ru) are in the single digits. Axiata earned zero points for this section.
 
 It is notable that the seven companies earning more than 50 percent of total possible points in this section are all members of the [Global Network Initiative](https://globalnetworkinitiative.org/) (GNI), a multi-stakeholder initiative focused on upholding principles of freedom of expression and privacy in relation to government requests or the [Telecommunications Industry Dialogue](http://www.telecomindustrydialogue.org/), an industry organization also focused on freedom of expression and privacy. There is a close link between the commitments sought under the Commitment category and the principles that companies commit to as members of the GNI and Industry Dialogue:
 
@@ -47,4 +48,3 @@ For telecommunications companies, many of the complaint avenues were embedded in
 - In the case of Kakao, South Korean laws require implementation of grievance and remedy mechanisms that cover privacy and copyright. Our assessment determined that Kakao’s performance largely aligned with regulatory expectations. Notably, Kakao has added an appeals mechanism for users who are accused of copyright infringement, which helps address concerns that processes for enforcing copyright can be used in a way that limits free expression.
 
 While both of these companies can find considerable room to stretch toward the ideals that underpin the Index’s methodology, their performance here provides a valuable example of how the regulatory context can support digital rights. There is further potential for stakeholders to work with regulators to close the gaps.
-
