@@ -16,4 +16,5 @@ published: true
  - Frequently asked questions [pdf]({{ site.baseurl }}/assets/static/download/RDR-FAQ.pdf)
 
 Translated company profile:
- - América Móvil [Spanish pdf]({{ site.baseurl }}/assets/static/download/AmericaMovil2015Spanish.pdf)
+
+- América Móvil [Spanish pdf]({{ site.baseurl }}/assets/static/download/AmericaMovil2015Spanish.pdf)
