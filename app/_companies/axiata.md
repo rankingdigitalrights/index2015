@@ -1,8 +1,6 @@
 ---
 entity: axiata
-
 layout: company
-
 name: axiata
 next: Axiata
 privacy: 17
@@ -12,30 +10,31 @@ commitment: 0
 display: Axiata Group Berhad
 total: 16
 id: axiata
-
-description: Axiata Group Berhad provides various telecommunication and network transmission-related services to numerous markets across Asia under various brand names. The company has approximately 240 million mobile subscribers in Asia. It operates primarily under the brands of Celcom in Malaysia, XL in Indonesia, Dialog in Sri Lanka, Robi in Bangladesh, Smart in Cambodia, Idea in India, and M1 in Singapore.
-
+description: >-
+  Axiata Group Berhad provides various telecommunication and network
+  transmission-related services to numerous markets across Asia under various
+  brand names. The company has approximately 240 million mobile subscribers in
+  Asia. It operates primarily under the brands of Celcom in Malaysia, XL in
+  Indonesia, Dialog in Sri Lanka, Robi in Bangladesh, Smart in Cambodia, Idea in
+  India, and M1 in Singapore.
 stats:
-  - item:
+  - item: null
     key: Industry
     value: Wireless Telecommunication Services
-  - item:
+  - item: null
     key: Domicile
     value: Malaysia
-  - item:
+  - item: null
     key: Market Cap
-    value: USD 13,354 million
-  - item:
+    value: 'USD 13,354 million'
+  - item: null
     key: Stock Symbol
-    value: "KLSE: AXIATA"
-
-
+    value: 'KLSE: AXIATA'
 operating_company: Celcom (Malaysia)
 services_evaluated:
- - Mobile
-
-website: http://axiata.com/
-
+  - Mobile
+website: 'http://axiata.com/'
+published: true
 ---
 
 ### OVERALL – 16%
@@ -64,4 +63,4 @@ Axiata earned only three percentage points more than the two companies that tied
 
 **Transparency about requests for user data:** The company received no credit on indicators examining disclosures about its process for responding to third-party requests for user information ([P9]({{ site.baseurl }}/indicators/p9)), user notification about third-party requests ([P10]({{ site.baseurl }}/indicators/p10)) or data about third-party requests ([P11]({{ site.baseurl }}/indicators/p11)). Notwithstanding the Official Secrets Act noted above, our understanding of Malaysian law indicates that the company should be in a position to disclose at least some types of requests that Celcom receives to share user information.
 
-**Security:** Axiata faces no meaningful obstacles to improving its disclosures about security practices ([P12]({{ site.baseurl }}/indicators/p12)), nor is there any reason why the company cannot make stronger efforts to educate users about security threats ([P14]({{ site.baseurl }}/indicators/p14)).
+**Security:** Axiata faces no meaningful obstacles to improving its disclosures about security practices ([P12]({{ site.baseurl }}/indicators/p12)) nor is there any reason why the company cannot make stronger efforts to educate users about security threats ([P14]({{ site.baseurl }}/indicators/p14)).
