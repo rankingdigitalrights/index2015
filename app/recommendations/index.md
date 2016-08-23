@@ -3,6 +3,7 @@ layout: survey
 visualization: none
 entity: recommendations
 header: Recommendations
+published: true
 ---
 
 This section lists key actions that companies, governments, and other stakeholders can take in order to maximize Internet and telecommunications companies’ respect for users’ freedom of expression and privacy.
