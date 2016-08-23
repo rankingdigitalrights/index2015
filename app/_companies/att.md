@@ -1,41 +1,41 @@
 ---
 entity: att
-
 layout: company
-
 name: at&t
 next: AT&T
 privacy: 52
 telco: true
 freedom: 42
 commitment: 57
-display: AT&T, Inc.
+display: 'AT&T, Inc.'
 total: 50
 id: att
-
-description: AT&T, Inc. provides telecommunications services in the United States and internationally. The company operates through two segments, Wireless and Wireline. The Wireless segment offers data and voice services to approximately 120 million wireless subscribers (as of December 2014). The Wireline segment provides telephony, Internet access, and network integration, among other services to 9 million retail consumer access lines, 9 million retail business access lines, and 2 million wholesale access lines.
-
-website: https://att.com/
-
+description: >-
+  AT&T, Inc. provides telecommunications services in the United States and
+  internationally. The company operates through two segments, Wireless and
+  Wireline. The Wireless segment offers data and voice services to approximately
+  120 million wireless subscribers (as of December 2014). The Wireline segment
+  provides telephony, Internet access, and network integration, among other
+  services to 9 million retail consumer access lines, 9 million retail business
+  access lines, and 2 million wholesale access lines.
+website: 'https://att.com/'
 stats:
-  - item:
+  - item: null
     key: Industry
     value: Diversified Telecommunication Services
-  - item:
+  - item: null
     key: Domicile
     value: United States
-  - item:
+  - item: null
     key: Market Cap
-    value: USD 208,088 million
-  - item:
+    value: 'USD 208,088 million'
+  - item: null
     key: Stock Symbol
-    value: "NYSE: T"
-
-operating_company: ""
+    value: 'NYSE: T'
 services_evaluated:
   - Mobile
   - Fixed line broadband
-
+published: true
 ---
 
 ### OVERALL – 50%
@@ -75,4 +75,4 @@ On disclosures about retention of user information ([P7]({{ site.baseurl }}/indi
 
 On indicators [P9]({{ site.baseurl }}/indicators/p9), [P10]({{ site.baseurl }}/indicators/p10), and [P11]({{ site.baseurl }}/indicators/p11), which examine company disclosures related to third-party requests, AT&T lost points due to a lack of information about whether and how the company receives or responds to private requests for user information. A company representative stated to researchers, “Except in emergency circumstances, we do not provide content of communications or stored data absent proper judicial or government process.” However, there was no evidence that the company publicly discloses this policy in a way that users can see it. In accordance with the Index methodology, we were unable to credit the company for such a policy.
 
-**Security:** Like Vodafone, AT&T received full marks on the Index’s two security indicators (P12 and [P14]({{ site.baseurl }}/indicators/p14)).
+**Security:** Like Vodafone, AT&T received full marks on the Index’s two security indicators ([P12]({{ site.baseurl }}/indicators/p12) and [P14]({{ site.baseurl }}/indicators/p14)).
