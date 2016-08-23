@@ -1,8 +1,6 @@
 ---
 entity: axiata
-
 layout: company
-
 name: axiata
 next: Axiata
 privacy: 17
@@ -12,30 +10,31 @@ commitment: 0
 display: Axiata Group Berhad
 total: 16
 id: axiata
-
-description: Axiata Group Berhad provides various telecommunication and network transmission-related services to numerous markets across Asia under various brand names. The company has approximately 240 million mobile subscribers in Asia. It operates primarily under the brands of Celcom in Malaysia, XL in Indonesia, Dialog in Sri Lanka, Robi in Bangladesh, Smart in Cambodia, Idea in India, and M1 in Singapore.
-
+description: >-
+  Axiata Group Berhad provides various telecommunication and network
+  transmission-related services to numerous markets across Asia under various
+  brand names. The company has approximately 240 million mobile subscribers in
+  Asia. It operates primarily under the brands of Celcom in Malaysia, XL in
+  Indonesia, Dialog in Sri Lanka, Robi in Bangladesh, Smart in Cambodia, Idea in
+  India, and M1 in Singapore.
 stats:
-  - item:
+  - item: null
     key: Industry
     value: Wireless Telecommunication Services
-  - item:
+  - item: null
     key: Domicile
     value: Malaysia
-  - item:
+  - item: null
     key: Market Cap
-    value: USD 13,354 million
-  - item:
+    value: 'USD 13,354 million'
+  - item: null
     key: Stock Symbol
-    value: "KLSE: AXIATA"
-
-
+    value: 'KLSE: AXIATA'
 operating_company: Celcom (Malaysia)
 services_evaluated:
- - Mobile
-
-website: http://axiata.com/
-
+  - Mobile
+website: 'http://axiata.com/'
+published: true
 ---
 
 ### OVERALL – 16%
