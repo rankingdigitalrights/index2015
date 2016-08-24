@@ -1,8 +1,6 @@
 ---
 entity: etisalat
-
 layout: company
-
 name: etisalat
 next: Etisalat
 privacy: 14
@@ -12,30 +10,31 @@ commitment: 3
 display: Etisalat Group
 total: 14
 id: etisalat
-
-description: Etisalat Group establishes and operates telecommunication and fiber optics networks alongside a broad suite of other services in the United Arab Emirates and in 18 other countries in the Middle East, Africa and Asia. Its operations include operation and management of telecom networks as well as media services, connectivity services, and consulting.
-
+description: >-
+  Etisalat Group establishes and operates telecommunication and fiber optics
+  networks alongside a broad suite of other services in the United Arab Emirates
+  and in 18 other countries in the Middle East, Africa and Asia. Its operations
+  include operation and management of telecom networks as well as media
+  services, connectivity services, and consulting.
 stats:
-  - item:
+  - item: null
     key: Industry
     value: Diversified Telecommunication Services
-  - item:
+  - item: null
     key: Domicile
     value: United Arab Emirates
-  - item:
+  - item: null
     key: Market Cap
-    value: USD 35,475 million
-  - item:
+    value: 'USD 35,475 million'
+  - item: null
     key: Stock Symbol
-    value: "ADX: ETISALAT"
-
+    value: 'ADX: ETISALAT'
 operating_company: Etisalat UAE
 services_evaluated:
   - Mobile
   - Fixed broadband
-
-website: http://etisalat.com/
-
+website: 'http://etisalat.com/'
+published: true
 ---
 
 ### OVERALL SCORE – 14%
@@ -64,8 +63,8 @@ Within the UAE, privacy is given considerable weight, often at the expense of fr
 
 Etisalat tied with MTN for the lowest score of any telecommunications company on Privacy. Only one company in the entire Index scored lower, the Internet company Mail.ru. Etisalat’s performance showed gaps across all indicators, notably with respect to how it manages user information, how it processes requests from external parties, and how it secures its information. Especially given the premium placed on personal privacy, Etisalat has the opportunity to make basic commitments to privacy and data protections and to conduct related security audits.
 
-Handling of user information: There are no obvious legal barriers against Etisalat improving its disclosure about how it handles user information. The company’s disclosures about collection of user information ([P3]({{ site.baseurl }}/indicators/p3)) are at the low end of the telecommunications cohort. Notably, its disclosures about the sharing of user information with third parties ([P4]({{ site.baseurl }}/indicators/p4)) received the same score as Vodafone – 32 percent – surpassed only by AT&T, which scored 48 percent. There is no evidence that users can control the company’s collection and sharing of their information ([P5]({{ site.baseurl }}/indicators/p5)), though Etisalat scored higher than AT&T on disclosure about users’ ability to access information the company holds on them ([P6]({{ site.baseurl }}/indicators/p6)).
+**Handling of user information:** There are no obvious legal barriers against Etisalat improving its disclosure about how it handles user information. The company’s disclosures about collection of user information ([P3]({{ site.baseurl }}/indicators/p3)) are at the low end of the telecommunications cohort. Notably, its disclosures about the sharing of user information with third parties ([P4]({{ site.baseurl }}/indicators/p4)) received the same score as Vodafone – 32 percent – surpassed only by AT&T, which scored 48 percent. There is no evidence that users can control the company’s collection and sharing of their information ([P5]({{ site.baseurl }}/indicators/p5)), though Etisalat scored higher than AT&T on disclosure about users’ ability to access information the company holds on them ([P6]({{ site.baseurl }}/indicators/p6)).
 
-Transparency about requests for user data: As noted above, there is widespread understanding that the UAE’s government surveils communications as part of an effort to identify political opponents or security threats. It is already established that the UAE operating context can restrict companies’ ability to disclose information; furthermore, the country’s penal code restricts what may be shared regarding police investigations and court trials. This, coupled with the fact that the company is majority-owned by the government, may disincentivize transparency in general, and the disclosure of law enforcement guidelines and transparency reports in particular (Indicators [P9]({{ site.baseurl }}/indicators/p9), [P10]({{ site.baseurl }}/indicators/p10), and [P11]({{ site.baseurl }}/indicators/p11)). Nonetheless, the company should strive to be transparent with users about third-party requests for their information to the greatest extent possible under the law.
+**Transparency about requests for user data:** As noted above, there is widespread understanding that the UAE’s government surveils communications as part of an effort to identify political opponents or security threats. It is already established that the UAE operating context can restrict companies’ ability to disclose information; furthermore, the country’s penal code restricts what may be shared regarding police investigations and court trials. This, coupled with the fact that the company is majority-owned by the government, may disincentivize transparency in general, and the disclosure of law enforcement guidelines and transparency reports in particular (Indicators [P9]({{ site.baseurl }}/indicators/p9), [P10]({{ site.baseurl }}/indicators/p10), and [P11]({{ site.baseurl }}/indicators/p11)). Nonetheless, the company should strive to be transparent with users about third-party requests for their information to the greatest extent possible under the law.
 
-Security: It is reasonable to expect Etisalat to disclose basic information about its security practices ([P12]({{ site.baseurl }}/indicators/p12)) and to publish materials that help users protect themselves from security threats ([P14]({{ site.baseurl }}/indicators/p14)). The company received zero credit for either practice.
+**Security:** It is reasonable to expect Etisalat to disclose basic information about its security practices ([P12]({{ site.baseurl }}/indicators/p12)) and to publish materials that help users protect themselves from security threats ([P14]({{ site.baseurl }}/indicators/p14)). The company received zero credit for either practice.

@@ -1,8 +1,6 @@
 ---
 entity: vodafone
-
 layout: company
-
 name: vodafone
 next: Vodafone
 privacy: 49
@@ -12,29 +10,32 @@ commitment: 75
 display: Vodafone Group Plc
 total: 54
 id: vodafone
-
 stats:
-  - item:
+  - item: null
     key: Industry
     value: Wireless Telecommunication Services
-  - item:
+  - item: null
     key: Domicile
     value: United Kingdom
-  - item:
+  - item: null
     key: Market Cap
-    value: USD 85,806 million
-  - item:
+    value: 'USD 85,806 million'
+  - item: null
     key: Stock Symbol
-    value: "LSE: VOD"
-
-description: Vodafone Group Plc operates as a telecommunications company worldwide with a significant footprint in Europe, Asia, Middle East, and Africa. It offers voice, messaging, and data services across mobile and fixed networks; fixed broadband and TV services; cloud and hosting, as well as Internet protocol-virtual private network services; roaming services; and unified communications services. The company serves 446 million mobile, 12 million fixed broadband, and 9 million TV customers.
-
+    value: 'LSE: VOD'
+description: >-
+  Vodafone Group Plc operates as a telecommunications company worldwide with a
+  significant footprint in Europe, Asia, Middle East, and Africa. It offers
+  voice, messaging, and data services across mobile and fixed networks; fixed
+  broadband and TV services; cloud and hosting, as well as Internet
+  protocol-virtual private network services; roaming services; and unified
+  communications services. The company serves 446 million mobile, 12 million
+  fixed broadband, and 9 million TV customers.
 operating_company: Vodafone UK
 services_evaluated:
- - Mobile
-
-website: http://vodafone.com
-
+  - Mobile
+website: 'http://vodafone.com'
+published: true
 ---
 
 ### OVERALL – 54%
