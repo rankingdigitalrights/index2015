@@ -1,8 +1,6 @@
 ---
 entity: yahoo
-
 layout: company
-
 name: yahoo
 next: Yahoo
 privacy: 52
@@ -12,30 +10,31 @@ commitment: 80
 display: Yahoo! Inc.
 total: 58
 id: yahoo
-
 stats:
-  - item:
+  - item: null
     key: Industry
     value: Internet Software and Services
-  - item:
+  - item: null
     key: Domicile
     value: United States
-  - item:
+  - item: null
     key: Market Cap
-    value: USD 31,414 million
-  - item:
+    value: 'USD 31,414 million'
+  - item: null
     key: Stock Symbol
-    value: "NasdaqGS: YHOO"
-
-description: Yahoo! Inc. provides a broad range of communication, sharing, and information and content services. Its services include the search platform Yahoo Search, communication and collaboration tools including Yahoo Mail, Yahoo Messenger, and Yahoo Groups, digital content through Yahoo.com, Yahoo Sports, and Yahoo Finance, advertising services, and multiple other services and properties.
-
-operating_company: ""
+    value: 'NasdaqGS: YHOO'
+description: >-
+  Yahoo! Inc. provides a broad range of communication, sharing, and information
+  and content services. Its services include the search platform Yahoo Search,
+  communication and collaboration tools including Yahoo Mail, Yahoo Messenger,
+  and Yahoo Groups, digital content through Yahoo.com, Yahoo Sports, and Yahoo
+  Finance, advertising services, and multiple other services and properties.
 services_evaluated:
   - Yahoo Mail (email platform)
   - Flickr (photo management and sharing)
   - Tumblr (blogging platform)
-
-website: http://yahoo.com
+website: 'http://yahoo.com'
+published: true
 ---
 
 ### OVERALL – 58%
@@ -45,7 +44,7 @@ A founding member of the Global Network Initiative (GNI), Yahoo received the sec
 
 ### COMMITMENT – 80%
 
-Yahoo placed second, behind Microsoft and ahead of Google, on disclosed commitments to respect users’ freedom of expression and privacy rights and measures to implement those commitments. It received the highest score for human rights impact assessments ([C4]({{ site.baseurl }}/indicators/c4)). On indicator {{ site.baseurl }}/indicators/c2, which examined governance and management oversight, the company lost points due to lack of board-level oversight. A shareholder resolution calling for the creation of a board committee that would exercise formal oversight over human rights issues, including freedom of expression and privacy, was [opposed](https://www.sec.gov/Archives/edgar/data/1011006/000119312514172132/d710905ddef14a.htm#toc710905_20) by the board, on the grounds that such a committee is “not necessary or advisable and would involve making regular BHRP update to a subset of the board, rather than to the full Board, as is Yahoo’s current practice.” Like all of its peers, the company has much room for improvement on grievance and remedy mechanisms ([C6]({{ site.baseurl }}/indicators/c6)).
+Yahoo placed second, behind Microsoft and ahead of Google, on disclosed commitments to respect users’ freedom of expression and privacy rights and measures to implement those commitments. It received the highest score for human rights impact assessments ([C4]({{ site.baseurl }}/indicators/c4)). On indicator ([C2]({{ site.baseurl }}/indicators/c2)), which examined governance and management oversight, the company lost points due to lack of board-level oversight. A shareholder resolution calling for the creation of a board committee that would exercise formal oversight over human rights issues, including freedom of expression and privacy, was [opposed](https://www.sec.gov/Archives/edgar/data/1011006/000119312514172132/d710905ddef14a.htm#toc710905_20) by the board, on the grounds that such a committee is “not necessary or advisable and would involve making regular BHRP update to a subset of the board, rather than to the full Board, as is Yahoo’s current practice.” Like all of its peers, the company has much room for improvement on grievance and remedy mechanisms ([C6]({{ site.baseurl }}/indicators/c6)).
 
 
 ### FREEDOM OF EXPRESSION – 53%
