@@ -93,7 +93,7 @@ $label-padding: .5em .5725em .4em;
     @include noselect;
 
     &:after {
-      content: '▼';
+      content: 'Show ▼';
       position: absolute;
       right: 1em;
     }
@@ -101,7 +101,7 @@ $label-padding: .5em .5725em .4em;
     &.expanded  {
       border-bottom: 1px solid $dark;
       &:after {
-        content: '▲';
+        content: 'Hide ▲';
       }
     }
   }
