@@ -3,10 +3,10 @@
 
     <div class="banner--internal">
       <a href="https://rankingdigitalrights.org">
-        <img class="logo" src="{{ site.baseurl }}/assets/graphics/layout/rdr_logo.svg"></img>
+        <img class="logo" src="{{ site.baseurl }}/assets/graphics/layout/rdr_logo.svg" alt = "Ranking Digital Rights" />
       </a>
       <a href="https://rankingdigitalrights.org">
-        <img class="rdr" src="{{ site.baseurl }}/assets/graphics/layout/rdr_hed.svg"></img>
+        <img class="rdr" src="{{ site.baseurl }}/assets/graphics/layout/rdr_hed.svg" alt = "Ranking Digital Rights" />
       </a>
 
       <button class="bttn--hamburger">
@@ -15,32 +15,98 @@
     </div>
 
     <div class="medium-up" style="margin-top: -2px;">
-      <ul class="nav">
-        <li class="nav--item"><a href="https://rankingdigitalrights.org/category/blog/">Blog</a></li>
-        <li class="nav--item nav--item_active"><a href="{{ site.baseurl }}">Corporate Accountability Index</a></li>
-        <li class="nav--item dropdown--trigger" data-dropdown="dropdown-about"><a href="#">About</a>
-          <ul class="dropdown" id="dropdown-about">
-            <li class="dropdown--item"><a href="https://rankingdigitalrights.org/about/">Project Overview</a></li>
-            <li class="dropdown--item"><a href="https://rankingdigitalrights.org/events/">Upcoming Events</a></li>
-            <li class="dropdown--item"><a href="https://rankingdigitalrights.org/project-documents/timeline/">Timeline</a></li>
-            <li class="dropdown--item"><a href="https://rankingdigitalrights.org/publications/">Publications</a></li>
-            <li class="dropdown--item"><a href="https://rankingdigitalrights.org/methodology-development/">Methodology Development</a></li>
-            <li class="dropdown--item"><a href="https://rankingdigitalrights.org/resources/">Background Reading</a></li>
-            <li class="dropdown--item"><a href="https://rankingdigitalrights.org/donate/">Donate</a></li>
-          </ul>
-        </li>
-        <li class="nav--item dropdown--trigger" data-dropdown="dropdown-who"><a href="#">Who We Are</a>
-          <ul class="dropdown" id="dropdown-who">
-            <li class="dropdown--item"><a href="https://rankingdigitalrights.org/who/">Our Team</a></li>
-            <li class="dropdown--item"><a href="https://rankingdigitalrights.org/who/affiliates/">Affiliates</a></li>
-            <li class="dropdown--item"><a href="https://rankingdigitalrights.org/who/partners/">Funders and Partners</a></li>
-            <li class="dropdown--item"><a href="https://rankingdigitalrights.org/who/advisory-council/">Advisory Council</a></li>
-            <li class="dropdown--item"><a href="https://rankingdigitalrights.org/contact/">Contact<a></li>
-          </ul>
-        </li>
-        <li class="nav--item"><a href="https://rankingdigitalrights.org/who/frequently-asked-questions/">FAQ</a></li>
+      <!-- Desktop Menu -->
+      <ul  class="nav">
+
+        <!-- Desktop About -->
+          <li class="nav--item dropdown--trigger" data-dropdown="dropdown-about"><a>About</a>
+              <ul class="dropdown" id="dropdown-about">
+                  <li class="dropdown--item"><a href="https://rankingdigitalrights.org/about/">About Ranking Digital Rights</a></li>
+                  <li class="dropdown--item"><a href="https://rankingdigitalrights.org/about/challenge/">The Challenge</a></li>
+                  <li class="dropdown--item"><a href="https://rankingdigitalrights.org/about/our-work/">Our Work</a></li>
+                  <li class="dropdown--item"><a href="https://rankingdigitalrights.org/about/principles/">Our Principles</a></li>
+                  <li class="dropdown--item"><a href="https://rankingdigitalrights.org/about/theory-of-change/">Our Theory of Change</a></li>
+                  <li class="dropdown--item"><a href="https://rankingdigitalrights.org/about/impact/">Our Impact</a></li>
+                  <li class="dropdown--item"><a href="https://rankingdigitalrights.org/about/priorities/">Our Strategic Priorities</a></li>
+                  <li class="dropdown--item"><a href="https://rankingdigitalrights.org/contact/">Contact</a></li>
+                  <li class="dropdown--item"><a href="https://rankingdigitalrights.org/donate/">Donate</a></li>
+              </ul>
+          </li>
+  
+        <!-- Desktop News -->
+          <li class="nav--item dropdown--trigger" data-dropdown="dropdown-news"><a>News</a>
+              <ul class="dropdown" id="dropdown-news">
+                  <li class="dropdown--item"><a href="https://rankingdigitalrights.org/category/blog/">RDR News</a></li>
+                  <li class="dropdown--item"><a href="https://rankingdigitalrights.org/events/">Events</a></li>
+                  <li class="dropdown--item"><a href="https://rankingdigitalrights.org/in-the-news/">In the Media</a></li>
+                  <li class="dropdown--item"><a href="https://rankingdigitalrights.org/publications/">Publications</a></li>
+                  <li class="dropdown--item"><a href="https://rankingdigitalrights.org/adaptations/">RDR Adaptations</a></li>
+                  <li class="dropdown--item"><a href="https://rankingdigitalrights.org/projects/">Projects</a></li>
+              </ul>
+          </li>
+  
+        <!-- Desktop Index -->
+          <li class="nav--item dropdown--trigger" data-dropdown="dropdown-corporate"><a href="{{ site.baseurl }}">RDR Corporate Accountability Index</a>
+              <ul class="dropdown" id="dropdown-corporate">
+                  <li class="dropdown--item"><a href="https://rankingdigitalrights.org/index2018">2018 Index</a></li>
+                  <li class="dropdown--item"><a href="https://rankingdigitalrights.org/index2017">2017 Index</a></li>
+                  <li class="dropdown--item"><a href="https://rankingdigitalrights.org/index2015">2015 Index</a></li>
+              </ul>
+          </li>
+  
+        <!-- Desktop Who -->
+          <li class="nav--item dropdown--trigger" data-dropdown="dropdown-who"><a>Who we are</a>
+              <ul class="dropdown" id="dropdown-who">
+                  <li class="dropdown--item"><a href="https://rankingdigitalrights.org/who/">Our Team</a></li>
+                  <li class="dropdown--item"><a href="https://rankingdigitalrights.org/who/affiliates/">Affiliates</a></li>
+                  <li class="dropdown--item"><a href="https://rankingdigitalrights.org/who/partners/">Funders and Partners</a></li>
+                  <li class="dropdown--item"><a href="https://rankingdigitalrights.org/who/advisory-council/">Advisory Council</a></li>
+                  <li class="dropdown--item"><a href="https://rankingdigitalrights.org/srdrn/">SRDRN ANBI information</a></li>
+              </ul>
+          </li>
+  
+        <!-- Desktop Resources -->
+          <li class="nav--item dropdown--trigger" data-dropdown="dropdown-resources"><a>Resources</a>
+              <ul class="dropdown" id="dropdown-resources" style="width: auto!important;">
+                  <li class="dropdown--item"><a href="https://rankingdigitalrights.org/investors/">For Investors</a></li>                
+                  <li class="dropdown--item"><a href="https://rankingdigitalrights.org/methodology-development/">Methodology Development</a></li>
+  
+                  <!-- custom resources layout -->
+                  <li class="dropdown--item"><a>2019 Research:</a>
+                    <ul style="text-align: center!important; font-size: smaller; padding-bottom: 0.5em; margin-left: 2em; margin-right: 2em;"><li>
+                        <a style="font-size: smaller; padding: 0!important;margin: 0!important; display: inline-block;" href="https://rankingdigitalrights.org/2019-research-process/">Process</a> | <a style="font-size: smaller; padding: 0!important;margin: 0!important; display: inline-block;" href="https://rankingdigitalrights.org/2019-indicators/">Indicators</a> | <a style="font-size: smaller; padding: 0!important;margin: 0!important; display: inline-block;" href="https://rankingdigitalrights.org/2019-companies/">Companies</a>
+                        </li>
+                      </ul>
+                  </li>  
+  
+                  <li class="dropdown--item"><a>2018 Research:</a>
+                    <ul style="text-align: center!important; font-size: smaller;padding-bottom: 0.5em; margin-left: 2em; margin-right: 2em;"><li>
+                        <a style="font-size: smaller; padding: 0!important;margin: 0!important; display: inline-block;" href="https://rankingdigitalrights.org/2018-research-process/">Process</a> | <a style="font-size: smaller; padding: 0!important;margin: 0!important; display: inline-block;" href="https://rankingdigitalrights.org/2018-indicators/">Indicators</a> | <a style="font-size: smaller; padding: 0!important;margin: 0!important; display: inline-block;" href="https://rankingdigitalrights.org/2018-companies/">Companies</a>
+                        </li>
+                      </ul>
+                  </li>
+  
+                  <li class="dropdown--item"><a>2017 Research:</a>
+                    <ul style="text-align: center!important; font-size: smaller;padding-bottom: 0.5em; margin-left: 2em; margin-right: 2em;"><li>
+                        <a style="font-size: smaller; padding: 0!important;margin: 0!important; display: inline-block;" href="https://rankingdigitalrights.org/2017-research-process/">Process</a> | <a style="font-size: smaller; padding: 0!important;margin: 0!important; display: inline-block;" href="https://rankingdigitalrights.org/2017-indicators/">Indicators</a> | <a style="font-size: smaller; padding: 0!important;margin: 0!important; display: inline-block;" href="https://rankingdigitalrights.org/2017-companies/">Companies</a>
+                        </li>
+                      </ul>
+                  </li>
+  
+                  <li class="dropdown--item"><a>2015 Research:</a>
+                    <ul style="text-align: center!important; font-size: smaller;padding-bottom: 0.5em; margin-left: 2em; margin-right: 2em;"><li>
+                        <a style="font-size: smaller; padding: 0!important;margin: 0!important; display: inline-block;" href="https://rankingdigitalrights.org/phase-1-full-ranking/2015-research-process/">Process</a> | <a style="font-size: smaller; padding: 0!important;margin: 0!important; display: inline-block;" href="https://rankingdigitalrights.org/project-documents/2015-indicators/">Indicators</a> | <a style="font-size: smaller; padding: 0!important;margin: 0!important; display: inline-block;" href="https://rankingdigitalrights.org/phase-1-full-ranking/the-2015-companies/">Companies</a>
+                        </li>
+                      </ul>
+                  </li>
+                  <li class="dropdown--item"><a href="https://rankingdigitalrights.org/translations/">Translations</a></li>
+              </ul>
+          </li>
+  
+        <!-- Desktop FAQ -->
+          <li class="nav--item"><a href="https://rankingdigitalrights.org/who/frequently-asked-questions/">FAQ</a></li>
       </ul>
-    </div>
+  </div>
   </div>
 </div>
 
@@ -73,7 +139,7 @@
       <li class="dropdown--item"><a href="https://rankingdigitalrights.org/who/affiliates/">Affiliates</a></li>
       <li class="dropdown--item"><a href="https://rankingdigitalrights.org/who/partners/">Funders and Partners</a></li>
       <li class="dropdown--item"><a href="https://rankingdigitalrights.org/who/advisory-council/">Advisory Council</a></li>
-      <li class="dropdown--item"><a href="https://rankingdigitalrights.org/contact/">Contact<a></li>
+      <li class="dropdown--item"><a href="https://rankingdigitalrights.org/contact/">Contact</a></li>
     </ul>
 
     <div class="nav--item_vertical"><a href="https://rankingdigitalrights.org/who/frequently-asked-questions/">FAQ</a></div>
