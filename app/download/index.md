@@ -2,13 +2,9 @@
 layout: survey
 visualization: none
 entity: downloads
-header: Download the Data
+header: Download the data and documents
 published: true
 ---
-
-
-
-
 
  - Full data [excel]({{ site.baseurl }}/assets/static/download/RDRindex2015data.xlsx) / [zipped csv]({{ site.baseurl }}/assets/static/download/RDRindex2015data.zip)
  - The report [pdf]({{ site.baseurl }}/assets/static/download/RDRindex2015report.pdf) / [Spanish pdf]({{ site.baseurl }}/assets/static/download/RDRindex2015reportSpanish.pdf) / [executive summary pdf in Spanish]({{ site.baseurl }}/assets/static/download/RDRindex2015summarySpanish.pdf)
